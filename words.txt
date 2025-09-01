@@ -1,5 +1,6 @@
 
 # notepad++ v8.4.5 (64-bit)
+# font: 霞鹜文楷等宽 (基于Klee One)
 
 taper
 tsunami
@@ -1682,9 +1683,9 @@ ginger
 Schultz
 
 ==============
-上神宗皇帝书    苏轼　北宋
+上神宗皇帝书    苏轼 北宋
 
-上仁宗皇帝言事书  王安石　北宋
+上仁宗皇帝言事书  王安石 北宋
 
 bayesian
 
@@ -1854,7 +1855,7 @@ scarab 圣甲虫 金龟子
 
 出贡(chū gòng)    出恭(chū gōng)
 ===================
-《进学解》作者：韩愈　唐
+《进学解》作者：韩愈 唐
 
 玉札丹砂，赤箭青芝，牛溲马勃，败鼓之皮，俱收并蓄，待用无遗者，医师之良也
 
@@ -1879,11 +1880,11 @@ shrine  史原
 
 第三首，《与欧阳询互嘲（无忌嘲询）》，起因是长孙无忌先作诗嘲笑欧阳询瘦（或丑）：
 
-　 　耸膊成山字，埋肩不出头。谁家麟阁上，画此一猕猴。
+   耸膊成山字，埋肩不出头。谁家麟阁上，画此一猕猴。
 
 欧阳询反唇相讥：《与欧阳询互嘲（询嘲无忌）》
 
-　　 索头连背暖，漫裆畏肚寒。只因心浑浑，所以面团团。
+   索头连背暖，漫裆畏肚寒。只因心浑浑，所以面团团。
 
 因欧阳询的“只因心浑浑”攻击太过，引起唐太宗不悦，制止道：“询岂不惧皇后闻耶？”
 
@@ -2076,7 +2077,7 @@ A le    X    XXXXXXX
 
 耗尽层  势垒区   depletion/barrier region           栅栅(Gate-Source)  Be(Base-emitter)  凤凰于飞
 沙漠  不毛
-   山M(hare) ~高峰梳子(李香兰)(兰香 高)  空谷兰《野之花》  《山花》　武士(samu rai)      脂FAT/FET溢
+   山M(hare) ~高峰梳子(李香兰)(兰香 高)  空谷兰《野之花》  《山花》 武士(samu rai)      脂FAT/FET溢
    
    雅砻江---->金沙江                  奥金玛      秘辛  爱珠
 %1F 曹操(挟天子令诸侯)  王必  少七
@@ -2158,7 +2159,7 @@ Caucasian
 单士厘的丈夫钱恂（1854-1927），字念劬，晚清著名外交家。
 ==============
 
-归潜志 作者：刘祁　元
+归潜志 作者：刘祁 元
 
 -----------------
 归元秘笈
@@ -2404,7 +2405,7 @@ J-23  毕二麻子   毕金贵     toadstool 故签 六号门 鼓chosen  顾顺�
            *mane                            八(白)丝 系 维
       荣格 八维  卡尔·古斯塔夫·荣格（德语：Carl Gustav Jung，发音：[kaʁl ˈjʊŋ]；1875年7月26日—1961年6月6日），旧译容格或杨格，瑞士心理学家、精神科医师，分析心理学的创始人。
       
-      待つ　时延   LR  4foo5强弱 level  时差(时延)
+      待つ 时延   LR  4foo5强弱 level  时差(时延)
       黑三角(石岩) 言
                                     葛小大 毕秀姑 小白菜
 编钟   奇迹的再现   瑰宝    score  gestalt 格式塔  delta (Δ, δ)  复员FIR 枞杉  fountain      频响
@@ -2737,7 +2738,7 @@ moonshine   bootleg        gilda  熊迹 秦城童 石钟山记
 莫歧  龚楚 谱号G  陌生人  stranger   dorian gray(doorbell ring grey) G    双簧  toldstwo           洪钧(psi金花 彩云) ~红军
       出恭 outstanding               durian
                                      荆棘冠
-无名氏 卜
+无名氏 卜            塔里的女人
 
 沈醉  张宪 弦  莫言   红吉        witness intelligence 情报        testament  testimony
 
@@ -2850,7 +2851,7 @@ temporal bone    颞骨
 
 心
 
-N
+N + echo
 ======================
 AWGN
 
@@ -2982,7 +2983,7 @@ window function  apodization  tapering    bartlett
 =============================
 cauchy  xi
 
-the red shoes 1948         红舞鞋   ~红孩子 红孩儿   洪吉童 红鸡童(Dr. T博士)  达吉和她的父亲(红吉)  父子俩  母与子
+the red shoes 1948         红舞鞋 红鞋子   ~红孩子 红孩儿   洪吉童 红鸡童(Dr. T博士)  达吉和她的父亲(红吉)  父子俩  母与子
 
 人生 1984
 
@@ -3197,7 +3198,7 @@ bond
 赛金花.1940  英茵 ~阮玲玉 ~宋美玲   ~李媛媛  王静        花姑娘 孤城烈女    赛金花1988&1991     prism silence  salon
                                                          雪里红                        李师师
                                                          东风第一枝                    桃花扇      沈胜衣   参扬
-小花 红辣椒 龙须沟       lily lilili  BrokenArrow.1950                               小白龙.1948-浦克(spectrogram 谱)~陈玉昶 - 方化("不懂还是懂啊")
+小花 红辣椒 龙须沟       lily lilili  BrokenArrow.1950                               小白龙.1948-浦克(spectrogram 谱)~陈玉昶 - 方化("不懂还是懂啊") No
 
 钿: 金華也。  華，榮也。    金华~金花
 
@@ -3368,7 +3369,7 @@ shock absorbers, dampers and struts          cushions and springs
 红鞋子
 =======================
 英雄有约.2004
-    morse code:  x 5 e 　~の  乃   能             之 屮  止   6
+    morse code:  x 5 e  ~の  乃   能             之 屮  止   6
 
     林嘉  王晓棠
     
@@ -3558,6 +3559,15 @@ hypnosis    hype(r-) hip nose knows
 抽刀断水水更流，举杯销愁愁更愁。   ~~渭川         chest       沪(滬) 簖
 人生在世不称意，明朝散发弄扁舟。
 =========================
+萨里玛珂
+
+cape                                                                                            MonKey     No. 1
+
+quicken     will  Freud fluid     佛陀 仙人掌  丹语 cleF %1F   红鞋子   红色乐团   ~快看 Lo ciao 兀的 于吉 alikes   春天的十七个瞬间
+
+---------------------notes
+红色交响乐队 / 红色管弦乐队（德语：Die Rote Kapelle）
+===============================
 keyhole  尘昊  HoPe
 
 尘吸
@@ -3658,6 +3668,9 @@ kitty       tiger
 
 半月谈  潭
 
+菩萨岭
+
+永乐
 ====================
 骰宝  Sic bo    Tai-sai (大细), dai siu (大小), big and small   hi-lo
 
@@ -3707,6 +3720,7 @@ pig  x  boar    Soul FIR   ~sulfur          SoFar  天蓬
                               美髯公千里走单骑
                                                     个
                    Ich                        离坤
+                   benzene
 ==================
 
 
