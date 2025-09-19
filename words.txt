@@ -692,7 +692,7 @@ pneumatic
 
 cholera    vibrio
 
-nutcracker
+nutcracker    nuts   ChestNut
 
 Neumann    Newman
 
@@ -703,6 +703,12 @@ cerebellum
 hemorrhage
 
 displacement
+
+vibe  vibration
+
+moor  fast              quicken  fasten
+
+procurement
 
 合成孔径雷达（英语：synthetic aperture radar, SAR）
 
@@ -731,7 +737,7 @@ displacement
 秦吉了
 
 金蝉子 (轻度皮肤烧伤)  铁窗烈火  萝卜头 RobertOppenheimer 盗日者  普罗米修斯 赫拉克勒斯
-梓童    吉洪诺夫
+梓童    吉洪诺夫                 rabbit
 
 虬髯客，为唐代传奇小说《虬髯客传》（作者为杜光庭）中的虚构人物，姓张，与李靖、红拂女并称风尘三侠。 
 
@@ -882,7 +888,7 @@ cast tear 沧海月明珠有泪  Dragon 骊珠 大海的女儿 灰姑娘 钟馗�
 招财童子 (hi)tler hit  it(ID) itLer 意得了(龙赖) willow wheel  Tler  esler  isla
 
          黑三角  角色 Freud I ego superego IIO 人防(防火墙)  黑山阻击战  萨拉热窝事件  sallen-key  Salon-Kit  T tee tap 抽头 FIR
-
+                                                                                               HasTo          宠碧
                             鹰爪铁布衫
 
 英雄坦克手 1962  温良恭俭让 仁义礼智信  Blessed are the meek  meek ICan Icon 安康 Ψ
@@ -1283,6 +1289,7 @@ Morse
 永不消逝的电波  王苹   王平 王子均 匀 (街亭)
 
 离上坤下 坤上离下
+  晋卦    明夷卦
 
 冰山上的来客 (1963)  主题曲“花儿为什么这样红”
 A律十三折线    xiii cc  成三  压扩
@@ -1324,7 +1331,7 @@ eustachian tube   耳咽管，咽鼓管  （Bartolomeo Eustachi）
 
 
 震仰盂(☳) y4, 艮覆碗(☶) n6 の         Morse code
-
+                                                                              913 Ivan
 五更寒  X5 con hans  代汉者  金茎承露起   Hans Kloss   林金             汉武   柏梁台   百翎(甘宁  锦帆贼)
 
 eish 5 (Morse Code)   Cupid丘比特(罗马神话) Eros(希腊神话)          orion  Diana  Artemis            signaling
@@ -1597,6 +1604,8 @@ barrier
 
 厉麟似（1896年2月18日－1970年10月21日），原名厉家祥，字麟似，生于浙江杭州。 “德械师”的创建者之一
 
+李劼人（1891年6月20日-1962年12月24日），原名李家祥，出生于四川成都，现代作家。
+
 《黄鹄歌》 汉昭帝刘弗陵
 黄鹄飞兮下建章，羽肃肃兮行跄跄，金为衣兮菊为裳。
 唼喋荷荇，出入蒹葭。
@@ -1605,6 +1614,9 @@ barrier
 
 Jason  adjacent  neighbor   neigh   nay              林金
                             马布斯 mabuse 冯 喆  博士  高黑子
+矢元参吉
+
+会稽  许昌
 =========================
 
 希姆莱（德语：Heinrich Luitpold Himmler，发音：[ˈhaɪnʁɪç ˈluːɪtˌpɔlt ˈhɪmlɐ]）
@@ -2047,7 +2059,7 @@ Dracula  the Transylvanian vampire in Bram Stoker's novel Dracula (1897)        
       Nosferatu, a Symphony of Horror    Count Orlok(counter or lock) 密码锁 watch表 Enigma CombinationLock
 Draco      [the Draco]【天】天龙座         德拉古（公元前7世纪，雅典立法者，他编纂的雅典法典以严酷著称，微不足道的罪行也会被判死刑）
 克格勃  契卡  Cheka    checker    query  quiller
-                              Sieg
+                              Sieg       Chekhov
 Solaris (1968)  (1971)
 
 
@@ -2319,7 +2331,7 @@ Walden; or, Life in the Woods  by Henry David Thoreau 梭罗
 一天风雪访贤良，不遇空回意感伤。冻合溪桥山石滑，寒侵鞍马路途长。当头片片梨花落，扑面纷纷柳絮狂。回首停鞭遥望处，烂银堆满卧龙冈。
 
 高贤未服英雄志，屈节偏生杰士疑。
-                     Jesse/Jessie
+                     Jesse/Jessie               Joshua
                        
 痛恨高贤不再逢，临岐泣别两情浓。片言却似春雷震，能使南阳起卧龙。
 ======================
@@ -2499,6 +2511,7 @@ Sitting Bull (1954)                  El Dorado
 天上天下唯我独尊。今兹而往生分已尽。随足所蹈出大莲华(莲花)。
 
 《金刚经》：若以色见我、以音声求我，是人行邪道，不能见如来。
+《金刚般若波罗蜜经》
 
 “火车”来自佛教用语，指载着作恶亡灵前往地狱的冒火的车子。《观无量寿经》云：“人以恶应堕恶道，命欲终时，地狱众火俱至，必有火车来迎。”
 =================
@@ -2706,6 +2719,8 @@ hands  hans        王莽新朝 光武帝刘秀
 涡流
 
 耳蜗   蜗牛
+
+死水微澜
 =======================
 解数
 清徐增《而庵诗话》：“不知连断则不成句法；不知解数则不成章法；总不出顿挫与起承转合诸法耳。” 清 徐增 《而庵诗话》：“解数及起承转合，令人看得甚易，似为不足学。
@@ -2746,7 +2761,7 @@ gold  girled   goaled    toward  told              head for
 
 林立果  老虎  ~杜源(沉默的证人)   gilda(生死存亡 新风歌   肖申克的救赎 Papillon)  bear
 虎虎虎  tora            Papillon (Clusiot ~closear ~007 中正   列宁  春天的十七个瞬间 马拉松人 himmler Wellington Caesar-Augustus  《死亡档案》)             Bragin 内蒙 ~外蒙~
-                        浮槎                Sea相近     三分  少七
+                        浮槎                Sea相近     三分  少七                                                czar / tsar
                                                               斗诗亭
 
 《鸿鹄歌》  矰缴    新加坡电视剧《浮沉》主题曲《不夜城传奇》徐小凤
@@ -2775,8 +2790,8 @@ gold  girled   goaled    toward  told              head for
 babylon  Hanging Garden           “上帝之门”或“众神之门”            《汉谟拉比法典》The Code of Hammurabi
 
 Papillon: a dog of a toy breed with ears suggesting the form of a butterfly
-    silence 三棱镜                  守户之犬
-            white/wait/weight  加权     家犬
+    silence 三棱镜                  守户之犬                        FFT
+            white/wait/weight  加权     家犬    上弦              耳蜗
                    G                 裂
       列宁
     
@@ -3563,9 +3578,10 @@ hypnosis    hype(r-) hip nose knows
 
 cape                                                                                            MonKey     No. 1
 
-quicken     will  Freud fluid     佛陀 仙人掌  丹语 cleF %1F   红鞋子   红色乐团   ~快看 Lo ciao 兀的 于吉 alikes   春天的十七个瞬间
+quicken     will  Freud fluid     佛陀 仙人掌  丹语 cleF %1F   红鞋子   红色乐团   ~快看 Lo ciao 兀的 于吉 alikes   春天的十七个瞬间     fasten 怪谈 聊斋
+                                                                                                                                                清谈 杏坛
 
----------------------notes
+---------------------notes  小切手
 红色交响乐队 / 红色管弦乐队（德语：Die Rote Kapelle）
 ===============================
 keyhole  尘昊  HoPe
@@ -3591,7 +3607,7 @@ Concha  as food
 =============
 A rolling stone gathers no moss.
 
-moss  苔藓  lichen
+moss  苔藓  lichen     liken
 =====================
 伏尔泰  石膏像
 =================
@@ -3722,5 +3738,11 @@ pig  x  boar    Soul FIR   ~sulfur          SoFar  天蓬
                    Ich                        离坤
                    benzene
 ==================
+《明夷待访录》  黄宗羲[明末清初]
 
+花息
+
+花溪水
+========================
+"大凡物不得其平则鸣"
 
