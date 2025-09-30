@@ -457,7 +457,7 @@ croak  crow      cam   honeycomb
 
 seer
 
-club  clubfoot     梅花     plum     ~波罗蜜  榴莲 durian             prom             carrot and stick
+club  clubfoot     梅花     plum     ~波罗蜜  榴莲 durian             prom             carrot and stick             李  梅  波隆 铁
 
 strain   strainer
 
@@ -693,7 +693,10 @@ pneumatic
 
 cholera    vibrio
 
-nutcracker    nuts   ChestNut
+nutcracker    nuts   ChestNut  ~seA urChin  eChinus   seaKull  hasło            栗子/\海胆
+                     Cupid    see your chin  piezo    cochlea          cloak    cotangent
+              notes      mole       sleeper     voodoo  basilar   letters          roulette
+                       cornflower            heterodyne        toadstool        tadpole
 
 Neumann    Newman
 
@@ -710,6 +713,8 @@ vibe  vibration
 moor  fast              quicken  fasten
 
 procurement
+
+lettuce           letters
 
 合成孔径雷达（英语：synthetic aperture radar, SAR）
 
@@ -890,7 +895,7 @@ cast tear 沧海月明珠有泪  Dragon 骊珠 大海的女儿 灰姑娘 钟馗�
 
          黑三角  角色 Freud I ego superego IIO 人防(防火墙)  黑山阻击战  萨拉热窝事件  sallen-key  Salon-Kit  T tee tap 抽头 FIR
                                                                                                HasTo          宠碧
-                            鹰爪铁布衫
+                            鹰爪铁布衫                                                              ~~hasło
 
 英雄坦克手 1962  温良恭俭让 仁义礼智信  Blessed are the meek  meek ICan Icon 安康 Ψ
 
@@ -2156,6 +2161,8 @@ reed
 woodwind
 
 gamut
+
+chest note   chest voice
 ================
 au fou
 ============
@@ -2294,7 +2301,7 @@ pigeon dove   nostalghia   peace make do  sdel  Pi π stool  五豪     鸽子 �
 
 坯  與坏同。
 ===============电极帽
-toadstool  tadpole
+toadstool  tadpole   tangent
 金梭和银梭    tell teach told 都
 
 压电陶瓷   Spindt阴极   射电            transducer
@@ -3563,6 +3570,7 @@ hypnosis    hype(r-) hip nose knows
 =================
 攀枝花(渡口)  木棉 (蒴果 心皮)
 
+%5C \
 雅砻江 金沙江     大渡河 岷江               长江(扬子江   Yangtze River)
   &    G              渭川
     Y
@@ -3585,8 +3593,8 @@ cape                        鹅鹅鹅                             Dial M        
                                                          蔡张                                                            斗诗亭
 quicken     will  Freud fluid     佛陀 仙人掌  丹语 cleF %1F   红鞋子   红色乐团   ~快看 Lo ciao 兀的 于吉 alikes   春天的十七个瞬间     fasten 怪谈 聊斋 崔大炮
                                                                                                                    U       丞厅壁记             清谈 杏坛
-                                         丼                                                                      formant   seal bug
----------------------notes  小切手
+                                         丼                                                                      formant   seal bug   tongue         cotangent 周·大炮
+---------------------notes  小切手                                                                                                            cochlea
 红色交响乐队 / 红色管弦乐队（德语：Die Rote Kapelle）
 ===============================
 keyhole  尘昊  HoPe
@@ -3765,5 +3773,7 @@ pig  x  boar    Soul FIR   ~sulfur          SoFar  天蓬
 新风  鼻息         乘龙快婿
       J.C.
 sinG  sinc l  幸福
-        渡口   /
+CV      渡口   /
+===============================
+昌豨  扛太 抗泰
 
