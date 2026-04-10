@@ -152,7 +152,7 @@ hypodermic
 
 Khmer Rouge
 
-a hoe and a sickle
+a hoe and a sickle            pickaxe 镐     破釜沉舟 补锅 堵口~渡口~Gilda
 
 daft
 
@@ -1314,7 +1314,7 @@ sinc function
 发报电键   通信兵的枪   J   J-23 Morse  J8 八卦   chosen 仇三 周恩 手于(周瑜 靳恭绶) 手日月 朝鲜...   离坤(X5 乘五)  ...     八卦_as_Morse[阳爻长?][击2当3 (从3)(左/右)借1组2 ...]
                             J-dash(psi)
                             Cast(演员表) dice 积23=6   brainwave as sound
-
+                                                          EEG
 gilda  Alice and Bob   AliX
 
 Enigma machine
@@ -1388,7 +1388,7 @@ tempo
 
 《破土》 《三国演义》普净(京金晋)    离坤    王子均 匀       《袁阔成 三国演义》镇国寺 "家乡口音"
 Starik Khottabych            Старик Хоттабыч (1956)   Hotabych      clay vessel  Genie Hassan Abdurrakhman ibn Hottab 胡汉三   Gassan 高山 战火中的青春1959 coal山 煤山 老高
-
+                                                                                                                                                                        老告 总参
 朵  铎 木铎金声 normal norm  gaussian    北师
 
 振铎   夏启
@@ -2300,7 +2300,7 @@ toadstool  华佗
 
 斩断魔爪
 
-夺印
+夺印    pickaxe
 
 羊X5  Con handsome     离坤 丽坤     antenna····>  耳道壁       IC G  黄色工会(铁窗烈火) 火车道  丕...
                                                                       sallen-key topology
@@ -3287,7 +3287,7 @@ bond
           
 女人花
 
-满洲候选人
+满洲候选人       傅满洲
 
 金姬和银姬的命运
 
@@ -3769,6 +3769,7 @@ kitty       tiger
 《大闹天宫》
 
 Bayes' Bez  XIII  玛莎·劳恩  鲁恩
+                             吕
 ====================
 骰宝  Sic bo    Tai-sai (大细), dai siu (大小), big and small   hi-lo
 
@@ -4088,5 +4089,27 @@ boMbe
 kraken Scylla
               gibbon  沙摩柯
 =========================================
+toadstool  dictation
+
+           ~不过~  ~打同罗~
+nian        补锅      代号      邨      BeHive espíritu        G    Alias Jesse James
+廿    甘     一  二十  21       里 500    蜗居     波隆莫高窟         Moonraker
+            浦f     boWbe            glass brass sinus        口心      太极图
+教之  胶脂  交织   X     交趾      ((((隐身博士))))       Robe T     绿宝石护身符
+   正言                 NEko       basilar membrane  马芬姐   凤蒙雏  夏商周
+挪威的森林   阿甘     A     通天塔     霓裳羽衣        eddy cortex    天书奇谭
+    Fowler       sallY            Ludwig        jumper        第八个是铜像
+Nordheimer              黑三角     中一   ICE           JTAG EEG
+
+
+松嫩  sonar
+
+戴昕  gallbladder
+
+"龙游沟壑遭虾戏，凤入牢笼被鸟欺。"
+
+"墙角数枝梅，凌寒独自开。遥知不是雪，为有暗香来。"   ~~ dragon srike (Daughter of)
+==========================================
+
 
 
